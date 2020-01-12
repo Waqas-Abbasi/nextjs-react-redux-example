@@ -6,7 +6,7 @@ To run the app:
 
 ```
 npm install
-npm start
+npm run dev
 ```
 
 [Detailed Explanation](https://dev.to/waqasabbasi/server-side-rendered-app-with-next-js-react-and-redux-38gf)
